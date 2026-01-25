@@ -1,0 +1,21 @@
+{
+  "customer": {
+    "_id": 1,
+    "firstName": "Toby",
+    "lastName": "Flenderson",
+    "orders": [
+      {
+        "_id": 7,
+        "burgerName": "Cheeseburger",
+        "price": 7.99,
+        "quantity": 2
+      },
+      {
+        "_id": 11,
+        "burgerName": "Bacon Cheeseburger",
+        "price": 9.99,
+        "quantity": 1
+      }
+    ]
+  }
+}

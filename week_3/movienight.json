@@ -1,0 +1,32 @@
+{
+  "viewers": [
+    {
+      "_id": 1,
+      "firstName": "Alan",
+      "lastName": "Grant"
+    }
+  ],
+
+  "movies": [
+    {
+      "_id": 54,
+      "movieName": "The Lord of the Rings: The Fellowship of the Ring",
+      "genre": "Fantasy"
+    },
+
+    {
+      "_id": 88,
+      "movieName": "Kill Bill: Vol. 1",
+      "genre": "Action"
+    }
+  ],
+
+  "ratings": [
+    {
+      "_id": 11,
+      "ratingScore": 10,
+      "viewerId": 1,
+      "movieId": 54
+    }
+  ]
+}

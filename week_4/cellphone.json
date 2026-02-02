@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "_id": 3,
+      "firstName": "Ian",
+      "lastName": "Malcolm"
+    }
+  ],
+
+  "devices": [
+    {
+      "_id": 5478,
+      "deviceName": "Ian's iPhone",
+      "deviceType": "iPhone 16",
+      "charger_id": 19872
+    },
+
+    {
+      "_id": 720,
+      "deviceName": "Frodo's Phone",
+      "deviceType": "BlackBerry Pearl",
+      "charger_id": 27651
+    }
+  ],
+
+  "chargers": [
+    {
+      "_id": 19872,
+      "chargerType": "USB-C",
+      "voltage": "5V"
+    }
+  ]
+}
